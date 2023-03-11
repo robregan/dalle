@@ -147,6 +147,9 @@ const CreatePost = () => {
           >
             {generatingImg ? 'Generating...' : 'Generate'}
           </button>
+          <p className='mt-2 text-[#666e75] text-[14px]'>
+            ** Click again to re-create **
+          </p>
         </div>
 
         <div className='mt-10'>
