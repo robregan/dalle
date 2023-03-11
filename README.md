@@ -1,5 +1,7 @@
 # AI Image generator powered by OpenAI's DALL-E
 
+Try it out! https://generate-images.com
+
 Mern stack application to generate images based on any entered prompts. Also share your image with the community, and download any image from the homepage.
 
 To install:
