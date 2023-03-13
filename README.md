@@ -15,6 +15,10 @@ To install:
     -  CLOUDINARY_API_KEY=
     -  CLOUDINARY_API_SECRET=
   - You will have to obtain an api key from both OpenAI and Cloudinary
+  
+  To run:
+   - cd into client and type `npm run dev`
+   - cd into server and type `npm start`
    
    ![image generator](client/public/dalle.jpg)
 
