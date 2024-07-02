@@ -6,7 +6,7 @@ Mern stack application to generate images based on any entered prompts. Also sha
 
 To install:
   - clone the repo
-  - install node modules in both the client and server directory
+  - install node modules in both the client and server directories
   - create a .env file with the following credentials: 
   
     -  OPENAI_API_KEY=
